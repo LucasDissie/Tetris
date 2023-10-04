@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/lucas/source/repos/Tetris/TetrisTemplate/Content/block.png","C:/Users/lucas/source/repos/Tetris/TetrisTemplate/Content/bin/Windows/block.xnb","TextureProcessor","Texture2DContent",338,3685,0,0159577
+"C:/Users/lucas/source/repos/Tetris/TetrisTemplate/Content/SpelFont.spritefont","C:/Users/lucas/source/repos/Tetris/TetrisTemplate/Content/bin/Windows/SpelFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0,3185239
